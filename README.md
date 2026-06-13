@@ -299,3 +299,7 @@ rag-knowledge-agent/
 ## License
 
 MIT
+=======
+# -RAG-ReAct-Agent-
+基于 RAG（检索增强生成） + ReAct Agent 的知识库问答系统
+>>>>>>> c87f959e7148259c9131658b0a4ab192400476a7
