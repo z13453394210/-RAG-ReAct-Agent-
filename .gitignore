@@ -1,0 +1,34 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vector store data (persisted docs)
+vector_store/chroma_db/
+
+# Uploaded documents
+docs/uploads/*.pdf
+docs/uploads/*.docx
+docs/uploads/*.md
+docs/uploads/*.txt
+!docs/uploads/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
